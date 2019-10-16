@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Astar-school-scheduler.iml" filepath="$PROJECT_DIR$/Astar-school-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/astar-school-scheduler.iml" filepath="$PROJECT_DIR$/astar-school-scheduler.iml" />
     </modules>
   </component>
 </project>
