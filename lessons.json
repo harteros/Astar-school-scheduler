@@ -1,0 +1,198 @@
+[
+{
+
+	"id": "01",
+	"name": "Glwssa",
+	"class":
+		[
+		{"id": "A", "hours": "3"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "02",
+	"name": "Logotexnia",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "03",
+	"name": "Arxaia",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "04",
+	"name": "Metafrasmeno",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "05",
+	"name": "Mathimatika",
+	"class":
+		[
+		{"id": "A", "hours": "4"},
+		{"id": "B", "hours": "4"},
+		{"id": "C", "hours": "4"}
+		]		
+},
+{
+	"id": "06",
+	"name": "Fisiki",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "07",
+	"name": "Ximeia",
+	"class":
+		[
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]	
+	
+},
+{
+	"id": "08",
+	"name": "Biologia",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]		
+},
+{
+	"id": "09",
+	"name": "Geografia",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "2"}	
+		]	
+},
+{
+	"id": "10",
+	"name": "Oikonomia",
+	"class":
+		[
+		{"id": "A", "hours": "2"}		
+		]	
+},
+{
+	"id": "11",
+	"name": "Istoria",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "12",
+	"name": "KPA",
+	"class":
+		[
+		{"id": "A", "hours": "2"}		
+		]		
+},
+{
+	"id": "13",
+	"name": "Thriskeftika",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]	
+},
+{
+	"id": "14",
+	"name": "Agglika",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]	
+},
+{
+	"id": "15",
+	"name": "Gallika",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]		
+},
+{
+	"id": "16",
+	"name": "Gimnastiki",
+	"class":
+		[
+		{"id": "A", "hours": "2"},
+		{"id": "B", "hours": "2"},
+		{"id": "C", "hours": "2"}
+		]	
+},
+{
+	"id": "17",
+	"name": "Texnologia",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]	
+},
+{
+	"id": "18",
+	"name": "Pliroforiki",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]	
+},
+{
+	"id": "19",
+	"name": "Mοusiki",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]	
+},
+{
+	"id": "20",
+	"name": "Kalitexnika",
+	"class":
+		[
+		{"id": "A", "hours": "1"},
+		{"id": "B", "hours": "1"},
+		{"id": "C", "hours": "1"}
+		]	
+}
+]

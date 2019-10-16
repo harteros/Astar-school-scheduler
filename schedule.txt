@@ -1,0 +1,250 @@
+-------------------------------------------------------------------------------------------------
+|                                            A1                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Geografia     |  Glwssa        |  Kalitexnika   |  Gimnastiki    |  Logotexnia    |  
+|          |  Koutra        |  Mpenopoulos   |  Mpisioti      |  Kostopoulos   |  Alexakou      |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Agglika       |  Oikonomia     |  Istoria       |  Pliroforiki   |  Mοusiki       |  
+|          |  Stathopoulou  |  Korkoli       |  Memou         |  Sakkis        |  Mpisioti      |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Metafrasmeno  |  Metafrasmeno  |  Oikonomia     |  KPA           |  Istoria       |  
+|          |  Foteinou      |  Foteinou      |  Korkoli       |  Kontonika     |  Memou         |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  KPA           |  Glwssa        |  Thriskeftika  |  Glwssa        |  Thriskeftika  |  
+|          |  Kontonika     |  Mpenopoulos   |  Dogani        |  Mpenopoulos   |  Dogani        |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Arxaia        |  Fisiki        |  Mathimatika   |  Logotexnia    |  Mathimatika   |  
+|          |  Kypriotakis   |  Skaltsas      |  Danoxristou   |  Alexakou      |  Danoxristou   |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Biologia      |  Texnologia    |  Agglika       |  Arxaia        |  Gallika       |  
+|          |  Pagoni        |  Douskas       |  Stathopoulou  |  Kypriotakis   |  Giakoumatos   |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |  Gimnastiki    |                |  Mathimatika   |  Gallika       |  Mathimatika   |  
+|          |  Kostopoulos   |                |  Danoxristou   |  Giakoumatos   |  Danoxristou   |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            A2                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Mathimatika   |  Geografia     |  Texnologia    |  Mathimatika   |  Istoria       |  
+|          |  Plessias      |  Pagoni        |  Douskas       |  Plessias      |  Mouseti       |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Biologia      |  Gimnastiki    |  Istoria       |  Mathimatika   |  Pliroforiki   |  
+|          |  Tomara        |  Tzortzakis    |  Mouseti       |  Plessias      |  Xarteros      |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Arxaia        |  Agglika       |  Glwssa        |  Metafrasmeno  |  Glwssa        |  
+|          |  Alexakou      |  Dede          |  Vlachantoni   |  Foteinou      |  Vlachantoni   |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Glwssa        |  Oikonomia     |  Arxaia        |  Kalitexnika   |  Metafrasmeno  |  
+|          |  Vlachantoni   |  Stamopoulos   |  Alexakou      |  Mpisioti      |  Foteinou      |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Gallika       |  KPA           |  Logotexnia    |  Agglika       |  Gallika       |  
+|          |  Stathopoulou  |  Mixa          |  Kotsopoulou   |  Dede          |  Stathopoulou  |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  KPA           |  Thriskeftika  |  Mathimatika   |  Thriskeftika  |  Mοusiki       |  
+|          |  Mixa          |  Xortopanos    |  Plessias      |  Xortopanos    |  Xarteros      |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |  Logotexnia    |                |  Fisiki        |  Gimnastiki    |  Oikonomia     |  
+|          |  Kotsopoulou   |                |  Skaltsas      |  Tzortzakis    |  Stamopoulos   |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            A3                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Kalitexnika   |  Thriskeftika  |  Agglika       |  Glwssa        |  Mathimatika   |  
+|          |  Mpisioti      |  Dogani        |  Dede          |  Memou         |  Sakkis        |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Mathimatika   |  Glwssa        |  Gimnastiki    |  Glwssa        |  Gallika       |  
+|          |  Sakkis        |  Memou         |  Kostopoulos   |  Memou         |  Giakoumatos   |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Istoria       |  Geografia     |  Texnologia    |  Oikonomia     |  Agglika       |  
+|          |  Pagoni        |  Koutra        |  Douskas       |  Korkoli       |  Dede          |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Pliroforiki   |  Gimnastiki    |  Gallika       |  Logotexnia    |  KPA           |  
+|          |  Xarteros      |  Kostopoulos   |  Giakoumatos   |  Kypriotakis   |  Kontonika     |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Mathimatika   |  Logotexnia    |  KPA           |  Metafrasmeno  |  Oikonomia     |  
+|          |  Sakkis        |  Kypriotakis   |  Kontonika     |  Mpenopoulos   |  Korkoli       |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Mοusiki       |  Metafrasmeno  |  Thriskeftika  |  Arxaia        |  Fisiki        |  
+|          |  Mpisioti      |  Mpenopoulos   |  Dogani        |  Kotsopoulou   |  Skaltsas      |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |  Arxaia        |  Istoria       |  Biologia      |  Mathimatika   |  
+|          |                |  Kotsopoulou   |  Pagoni        |  Tomara        |  Sakkis        |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            B1                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Texnologia    |  Geografia     |  Agglika       |  Glwssa        |  Mathimatika   |  
+|          |  Douskas       |  Koutra        |  Tzortzakis    |  Vlachantoni   |  Skaltsas      |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Mathimatika   |  Pliroforiki   |  Thriskeftika  |  Geografia     |  Logotexnia    |  
+|          |  Skaltsas      |  Xarteros      |  Xortopanos    |  Koutra        |  Alexakou      |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Istoria       |  Arxaia        |  Arxaia        |  Agglika       |  Thriskeftika  |  
+|          |  Mouseti       |  Kypriotakis   |  Kypriotakis   |  Tzortzakis    |  Xortopanos    |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Biologia      |  Fisiki        |  Gimnastiki    |  Istoria       |  Kalitexnika   |  
+|          |  Tomara        |  Pagoni        |  Kostopoulos   |  Mouseti       |  Mpisioti      |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Fisiki        |  Logotexnia    |  Gallika       |  Mathimatika   |  Metafrasmeno  |  
+|          |  Pagoni        |  Alexakou      |  Stathopoulou  |  Skaltsas      |  Foteinou      |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Gallika       |  Gimnastiki    |  Mοusiki       |  Metafrasmeno  |  Glwssa        |  
+|          |  Stathopoulou  |  Kostopoulos   |  Xarteros      |  Foteinou      |  Vlachantoni   |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |  Ximeia        |  Mathimatika   |  
+|          |                |                |                |  Mouseti       |  Skaltsas      |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            B2                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Agglika       |  Glwssa        |  Biologia      |  Mathimatika   |  Geografia     |  
+|          |  Dede          |  Giakoumatos   |  Tomara        |  Danoxristou   |  Koutra        |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Glwssa        |  Gallika       |  Mathimatika   |  Metafrasmeno  |  Ximeia        |  
+|          |  Giakoumatos   |  Stathopoulou  |  Danoxristou   |  Foteinou      |  Plessias      |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Istoria       |  Pliroforiki   |  Arxaia        |  Mathimatika   |  Logotexnia    |  
+|          |  Memou         |  Douskas       |  Mpenopoulos   |  Danoxristou   |  Kotsopoulou   |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Texnologia    |  Mathimatika   |  Agglika       |  Logotexnia    |  Fisiki        |  
+|          |  Douskas       |  Danoxristou   |  Dede          |  Kotsopoulou   |  Sakkis        |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Geografia     |  Gimnastiki    |  Thriskeftika  |  Mοusiki       |  Istoria       |  
+|          |  Koutra        |  Tzortzakis    |  Mixa          |  Xarteros      |  Memou         |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Metafrasmeno  |  Fisiki        |  Gimnastiki    |  Kalitexnika   |  Gallika       |  
+|          |  Foteinou      |  Sakkis        |  Tzortzakis    |  Mpisioti      |  Stathopoulou  |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |  Arxaia        |  Thriskeftika  |  
+|          |                |                |                |  Mpenopoulos   |  Mixa          |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            B3                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Geografia     |  Ximeia        |  Logotexnia    |  Arxaia        |  Kalitexnika   |  
+|          |  Tomara        |  Mouseti       |  Alexakou      |  Kypriotakis   |  Memou         |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Pliroforiki   |  Thriskeftika  |  Thriskeftika  |  Glwssa        |  Gimnastiki    |  
+|          |  Xarteros      |  Dogani        |  Dogani        |  Vlachantoni   |  Kostopoulos   |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Agglika       |  Mathimatika   |  Fisiki        |  Metafrasmeno  |  Istoria       |  
+|          |  Dede          |  Plessias      |  Pagoni        |  Kotsopoulou   |  Mouseti       |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Metafrasmeno  |  Geografia     |  Mathimatika   |  Gimnastiki    |  Texnologia    |  
+|          |  Kotsopoulou   |  Tomara        |  Plessias      |  Kostopoulos   |  Douskas       |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Mathimatika   |  Mοusiki       |  Glwssa        |  Fisiki        |  Arxaia        |  
+|          |  Plessias      |  Mpisioti      |  Vlachantoni   |  Pagoni        |  Kypriotakis   |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Mathimatika   |  Istoria       |  Agglika       |  Gallika       |  Biologia      |  
+|          |  Plessias      |  Mouseti       |  Dede          |  Giakoumatos   |  Tomara        |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |  Logotexnia    |  Gallika       |  
+|          |                |                |                |  Alexakou      |  Giakoumatos   |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            C1                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Glwssa        |  Texnologia    |  Mathimatika   |  Glwssa        |  Thriskeftika  |  
+|          |  Mpenopoulos   |  Douskas       |  Skaltsas      |  Mpenopoulos   |  Xortopanos    |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Kalitexnika   |  Logotexnia    |  Mathimatika   |  Biologia      |  Gallika       |  
+|          |  Mpisioti      |  Vlachantoni   |  Skaltsas      |  Tzortzakis    |  Stathopoulou  |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Mathimatika   |  Pliroforiki   |  Mοusiki       |  Gimnastiki    |  Mathimatika   |  
+|          |  Skaltsas      |  Xarteros      |  Mpisioti      |  Kostopoulos   |  Skaltsas      |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Agglika       |  Arxaia        |  Metafrasmeno  |  Thriskeftika  |  Agglika       |  
+|          |  Tzortzakis    |  Alexakou      |  Foteinou      |  Xortopanos    |  Tzortzakis    |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Logotexnia    |  Istoria       |  Arxaia        |  Gallika       |  Ximeia        |  
+|          |  Vlachantoni   |  Memou         |  Alexakou      |  Stathopoulou  |  Pagoni        |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Fisiki        |  Metafrasmeno  |  Fisiki        |  Istoria       |  Gimnastiki    |  
+|          |  Sakkis        |  Foteinou      |  Sakkis        |  Memou         |  Kostopoulos   |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |                |                |  
+|          |                |                |                |                |                |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            C2                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Logotexnia    |  Mathimatika   |  Mathimatika   |  Gallika       |  Fisiki        |  
+|          |  Kypriotakis   |  Danoxristou   |  Danoxristou   |  Stathopoulou  |  Pagoni        |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Istoria       |  Arxaia        |  Fisiki        |  Pliroforiki   |  Texnologia    |  
+|          |  Mouseti       |  Kotsopoulou   |  Pagoni        |  Xarteros      |  Douskas       |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Gallika       |  Kalitexnika   |  Istoria       |  Logotexnia    |  Gimnastiki    |  
+|          |  Stathopoulou  |  Mpisioti      |  Mouseti       |  Kypriotakis   |  Tzortzakis    |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Thriskeftika  |  Ximeia        |  Arxaia        |  Glwssa        |  Mathimatika   |  
+|          |  Mixa          |  Mouseti       |  Kotsopoulou   |  Giakoumatos   |  Danoxristou   |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Agglika       |  Agglika       |  Gimnastiki    |  Mathimatika   |  Biologia      |  
+|          |  Dede          |  Dede          |  Tzortzakis    |  Danoxristou   |  Tomara        |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Mοusiki       |  Glwssa        |  Metafrasmeno  |  Thriskeftika  |  Metafrasmeno  |  
+|          |  Xarteros      |  Giakoumatos   |  Mpenopoulos   |  Mixa          |  Mpenopoulos   |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |                |                |  
+|          |                |                |                |                |                |  
+-------------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------
+|                                            C3                                                 |
+-------------------------------------------------------------------------------------------------
+| wra\mera |  Deutera       |  Triti         |  Tetarti       |  Pempti        |  Paraskeui     |
+-------------------------------------------------------------------------------------------------
+|  8 - 9   |  Logotexnia    |  Mathimatika   |  Glwssa        |  Gallika       |  Mοusiki       |  
+|          |  Alexakou      |  Plessias      |  Vlachantoni   |  Giakoumatos   |  Xarteros      |  
+-------------------------------------------------------------------------------------------------
+|  9 - 10  |  Istoria       |  Arxaia        |  Fisiki        |  Pliroforiki   |  Metafrasmeno  |  
+|          |  Memou         |  Kypriotakis   |  Sakkis        |  Douskas       |  Foteinou      |  
+-------------------------------------------------------------------------------------------------
+|  10 - 11 |  Gallika       |  Biologia      |  Istoria       |  Logotexnia    |  Gimnastiki    |  
+|          |  Giakoumatos   |  Tomara        |  Memou         |  Alexakou      |  Kostopoulos   |  
+-------------------------------------------------------------------------------------------------
+|  11 - 12 |  Thriskeftika  |  Ximeia        |  Arxaia        |  Agglika       |  Mathimatika   |  
+|          |  Dogani        |  Skaltsas      |  Kypriotakis   |  Dede          |  Plessias      |  
+-------------------------------------------------------------------------------------------------
+|  12 - 13 |  Texnologia    |  Fisiki        |  Gimnastiki    |  Mathimatika   |  Kalitexnika   |  
+|          |  Douskas       |  Sakkis        |  Kostopoulos   |  Plessias      |  Mpisioti      |  
+-------------------------------------------------------------------------------------------------
+|  13 - 14 |  Agglika       |  Glwssa        |  Metafrasmeno  |  Thriskeftika  |  Mathimatika   |  
+|          |  Dede          |  Vlachantoni   |  Foteinou      |  Dogani        |  Plessias      |  
+-------------------------------------------------------------------------------------------------
+|  14 - 15 |                |                |                |                |                |  
+|          |                |                |                |                |                |  
+-------------------------------------------------------------------------------------------------
